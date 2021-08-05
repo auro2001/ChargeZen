@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359309608975",
+    "project_id": "chargezen-7655a",
+    "storage_bucket": "chargezen-7655a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359309608975:android:6b41906d2e4fdfab5e7b7a",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359309608975-9i4fskipoiucs81lgea7lsk3bkgt1ve1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluetoothlight",
+            "certificate_hash": "02980a2982783327804b3a0b62f4dd99b7810605"
+          }
+        },
+        {
+          "client_id": "359309608975-vsv7frsi073i62vh8g1f7s9sqhglrj6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmJBmaVCTxsU4DODctU_c8gdcAfXQhRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359309608975-vsv7frsi073i62vh8g1f7s9sqhglrj6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
